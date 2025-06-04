@@ -1,1 +1,1 @@
-If you have any complaints about my projects, email me at @untr0x1f@duck.com, and I'll work to resolve it. Do NOT expect lightning fast responses. I am a STUDENT and have to balance school and development.
+If you have any complaints about my projects, email me at untr0x1f@duck.com, and I'll work to resolve them. Do NOT expect lightning-fast responses. I am a STUDENT and have to balance school and development.
